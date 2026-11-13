@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: f3a67e1ed80f04b42b30389d2cdd50c6
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Shaders/BoZo_LayerTextureShader.shader
+  uploadId: 1035772

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7d8387181b936014cbc1e8b7b5a73085
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Scripts/Editor/BSMC_Tools.cs
+  uploadId: 1035772

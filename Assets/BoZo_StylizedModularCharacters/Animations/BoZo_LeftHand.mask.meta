@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e7d10513cd49d1c43b59d688b5e2d39b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 31900000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Animations/BoZo_LeftHand.mask
+  uploadId: 1035772

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 21d1567dd1d8e864b81e74798251ae92
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Scripts/CharacterCreator/ExpressionSelect.cs
+  uploadId: 1035772

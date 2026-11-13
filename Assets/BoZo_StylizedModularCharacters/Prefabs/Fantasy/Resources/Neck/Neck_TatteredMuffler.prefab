@@ -1,0 +1,228 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7215914278153412364
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 566410420551163}
+  - component: {fileID: 8581374001128305505}
+  - component: {fileID: 1012536615667983024}
+  m_Layer: 0
+  m_Name: Neck_TatteredMuffler
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &566410420551163
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7215914278153412364}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7139142708493275729}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8581374001128305505
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7215914278153412364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30163d88ceeb5dd4c9f91932956c80e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AttachInEditMode: 0
+  OutfitName: Tattered Muffler
+  PackName: Fantasy
+  OutfitIcon: {fileID: 21300000, guid: 1625f1324130d78478cbad7542ba620a, type: 3}
+  ColorChannels:
+  - Base
+  TextureCatagory: 
+  mergeTexture: 1
+  mergeMesh: 1
+  supportDecals: 0
+  supportPatterns: 0
+  showCharacterCreator: 1
+  Type: {fileID: 11400000, guid: 3ec095cfc3c138c45b2fbfdc7131682d, type: 2}
+  AttachPoint: 
+  materialIndex: 0
+  materialPriority: 0
+  colors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  defaultColors: []
+  pattern: {fileID: 0}
+  patternColors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  patternSize: {x: 0, y: 0}
+  decalDatas: []
+  tags:
+  - TightNeck
+  requiredTags: []
+  categories: []
+  optionalPieces: []
+  additionalBones:
+  - {fileID: 1830229477544887425}
+  LinkedColorSets: []
+  IncompatibleSets: []
+  HideTypes: []
+  currentSwatch: 0
+  outfitSwatches: []
+  originalBones: []
+  originalRootBone: {fileID: 0}
+  editorAttachPoint: {fileID: 0}
+  customShader: 0
+  material: {fileID: 0}
+  controlMaterial: {fileID: 0}
+  controlIndex: 0
+  MC2Map: {fileID: 0}
+  attached: 0
+--- !u!114 &1012536615667983024
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7215914278153412364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6aaccbd393a6ba340bc947a52b59b3ea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  type: 1
+  skinnedMeshRenderer: {fileID: 6820993023745201378}
+  disableByTag: []
+  InitalizeOnStart: 0
+  boneReferenceByString: 0
+  rootBones:
+  - {fileID: 1830229477544887425}
+  rootBonesString: []
+  collisionSize: 0.006
+  collisionCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  influenceMap: {fileID: 2800000, guid: 90f5df5d47b70a349b67d4338f9770fd, type: 3}
+  reductionSetting: 0.065
+  clothPreset: {fileID: 4900000, guid: 92e28c697b17c294380ea20bba48be1a, type: 3}
+  transforms: []
+--- !u!1001 &7249085704753558970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 566410420551163}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_Name
+      value: Neck_TatteredMuffler
+      objectReference: {fileID: 0}
+    - target: {fileID: 3892147504029694742, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+      propertyPath: m_Icon
+      value: 
+      objectReference: {fileID: 3443629218296621865, guid: 0000000000000000d000000000000000, type: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+--- !u!4 &1830229477544887425 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -144215201746407109, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+  m_PrefabInstance: {fileID: 7249085704753558970}
+  m_PrefabAsset: {fileID: 0}
+--- !u!137 &6820993023745201378 stripped
+SkinnedMeshRenderer:
+  m_CorrespondingSourceObject: {fileID: -5030270032409353896, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+  m_PrefabInstance: {fileID: 7249085704753558970}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &7139142708493275729 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b7394c693e6f4bf4cbdbc446db8051b4, type: 3}
+  m_PrefabInstance: {fileID: 7249085704753558970}
+  m_PrefabAsset: {fileID: 0}

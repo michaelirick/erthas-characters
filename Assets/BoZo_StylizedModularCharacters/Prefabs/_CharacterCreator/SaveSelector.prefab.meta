@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: db3da85fc87f3324b8079a8f7d8a1d12
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Prefabs/_CharacterCreator/SaveSelector.prefab
+  uploadId: 1035772

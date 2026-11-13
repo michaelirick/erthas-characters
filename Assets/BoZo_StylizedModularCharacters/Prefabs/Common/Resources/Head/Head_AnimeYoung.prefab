@@ -1,0 +1,310 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5855870028555442345
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8632926726067080216}
+  - component: {fileID: 5753061687043866716}
+  - component: {fileID: -8979680346332540861}
+  m_Layer: 0
+  m_Name: Head_AnimeYoung
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8632926726067080216
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5855870028555442345}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5606493496970051157}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5753061687043866716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5855870028555442345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30163d88ceeb5dd4c9f91932956c80e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AttachInEditMode: 0
+  OutfitName: Anime Young
+  PackName: 
+  OutfitIcon: {fileID: 21300000, guid: ab35a2c2a922eb84293510d984c30d34, type: 3}
+  ColorChannels:
+  - Base
+  - Undertone
+  - Lines
+  - Sclera
+  - Sclera Shade
+  - Inner Mouth
+  - Teeth
+  - Tongue
+  - Teeth
+  TextureCatagory: 
+  mergeTexture: 1
+  mergeMesh: 1
+  supportDecals: 1
+  supportPatterns: 0
+  showCharacterCreator: 1
+  skinnedRenderers: []
+  Type: {fileID: 11400000, guid: 480ce04c1d1586c44b495f52ce52adc8, type: 2}
+  AttachPoint: 
+  materialIndex: -1
+  materialPriority: 100
+  colors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  alpha: 1
+  defaultColors: []
+  pattern: {fileID: 0}
+  patternColors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  patternSize: {x: 0, y: 0}
+  decalDatas: []
+  tags:
+  - Anime
+  requiredTags: []
+  categories: []
+  optionalPieces: []
+  additionalBones:
+  - {fileID: 6023626926398726732}
+  LinkedColorSets: []
+  inheritColor: {fileID: 0}
+  inheritedRange: 1
+  IncompatibleSets: []
+  HideTypes: []
+  currentSwatch: 0
+  outfitSwatches: []
+  originalBones: []
+  originalRootBone: {fileID: 0}
+  editorAttachPoint: {fileID: 0}
+  customShader: 0
+  material: {fileID: 0}
+  controlMaterial: {fileID: 0}
+  controlIndex: 0
+  MC2Map: {fileID: 0}
+  attached: 0
+--- !u!114 &-8979680346332540861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5855870028555442345}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 122ce15cbf1113c4bbb05dbd0aba684b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  outfits:
+  - Body_AnimeBasic
+  - EyeLashes_ShortLashes
+  - Eyes_AnimeBasic
+  - Brows_BasicBrows
+  - Pupil_Round
+  - EyeShine_DoubleRound
+  - Teeth_AnimeBasicTeeth
+--- !u!1001 &5351680832909253054
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8632926726067080216}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      propertyPath: m_Name
+      value: Head_AnimeYoung
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: -8601364633731858928, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 5781697205064154274}
+    - targetCorrespondingSourceObject: {fileID: 1103183771031064788, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3917546620134590159}
+  m_SourcePrefab: {fileID: 100100000, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+--- !u!1 &4820308647233939374 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8601364633731858928, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+  m_PrefabInstance: {fileID: 5351680832909253054}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &5781697205064154274
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4820308647233939374}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e380248cdcfafa94881758bf4b8482e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapeName: Eyes
+  sorting: Head
+  useScale: 1
+  scaleValue: 1
+  xScaleValue: 1
+  yScaleValue: 1
+  zScaleValue: 1
+  counterScale: []
+  useXScale: 1
+  useYScale: 1
+  useZScale: 1
+  linkScaleAxis: 0
+  scaleRange: {x: 0.75, y: 1.25}
+  usePosition: 1
+  posValue: 0
+  xPosValue: 0
+  yPosValue: 0
+  zPosValue: 0
+  useXPos: 1
+  useYPos: 1
+  useZPos: 1
+  posRange: {x: -0.01, y: 0.01}
+  mirrorX: -1
+  mirrorY: 1
+  mirrorZ: 0
+  useRotation: 1
+  initalRotationAxis: {x: 0, y: 0, z: 0, w: 0}
+  initalMirrorRotationAxis: {x: 0, y: 0, z: 0, w: 0}
+  rotation: 0
+  rotationAxis: {x: 0, y: 0, z: 1}
+  rotRange: {x: -90, y: 90}
+  mirrotRot: 0
+  MirrorTransform: 1
+  useLateUpdate: 0
+--- !u!1 &4975270975409670506 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1103183771031064788, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+  m_PrefabInstance: {fileID: 5351680832909253054}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3917546620134590159
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4975270975409670506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e380248cdcfafa94881758bf4b8482e4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shapeName: Iris
+  sorting: Head
+  useScale: 1
+  scaleValue: 1
+  xScaleValue: 1
+  yScaleValue: 1
+  zScaleValue: 1
+  counterScale: []
+  useXScale: 1
+  useYScale: 1
+  useZScale: 1
+  linkScaleAxis: 0
+  scaleRange: {x: 0.75, y: 1.25}
+  usePosition: 1
+  posValue: 0
+  xPosValue: 0
+  yPosValue: 0
+  zPosValue: 0
+  useXPos: 1
+  useYPos: 1
+  useZPos: 1
+  posRange: {x: -0.01, y: 0.01}
+  mirrorX: -1
+  mirrorY: -1
+  mirrorZ: 1
+  useRotation: 1
+  initalRotationAxis: {x: 0, y: 0, z: 0, w: 0}
+  initalMirrorRotationAxis: {x: 0, y: 0, z: 0, w: 0}
+  rotation: 0
+  rotationAxis: {x: 0, y: 0, z: 1}
+  rotRange: {x: -90, y: 90}
+  mirrotRot: 0
+  MirrorTransform: 1
+  useLateUpdate: 0
+--- !u!4 &5606493496970051157 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+  m_PrefabInstance: {fileID: 5351680832909253054}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6023626926398726732 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -7359790423337075726, guid: 35be80aca575f564e8838b7c7d9b904b, type: 3}
+  m_PrefabInstance: {fileID: 5351680832909253054}
+  m_PrefabAsset: {fileID: 0}

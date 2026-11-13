@@ -1,0 +1,198 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3276934731640005999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3818186915950220429}
+  - component: {fileID: 5102733483422361913}
+  m_Layer: 0
+  m_Name: HairBack_NobleBraid
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3818186915950220429
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3276934731640005999}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3033037544378909121}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5102733483422361913
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3276934731640005999}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30163d88ceeb5dd4c9f91932956c80e1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AttachInEditMode: 0
+  OutfitName: Noble Braid
+  PackName: Fantasy
+  OutfitIcon: {fileID: 21300000, guid: 12015ede3699f1046b82e7add118eed0, type: 3}
+  ColorChannels:
+  - Base
+  - Gradient
+  - Braid
+  TextureCatagory: 
+  mergeTexture: 1
+  mergeMesh: 1
+  supportDecals: 0
+  supportPatterns: 0
+  showCharacterCreator: 1
+  Type: {fileID: 11400000, guid: 3781f2a69b931724b9a19deab41d2f45, type: 2}
+  AttachPoint: 
+  materialIndex: 0
+  materialPriority: 0
+  colors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  defaultColors: []
+  pattern: {fileID: 0}
+  patternColors:
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  - {r: 0, g: 0, b: 0, a: 0}
+  patternSize: {x: 0, y: 0}
+  decalDatas: []
+  tags: []
+  requiredTags: []
+  categories: []
+  optionalPieces: []
+  additionalBones:
+  - {fileID: 2543977555217151635}
+  LinkedColorSets: []
+  IncompatibleSets: []
+  HideTypes: []
+  currentSwatch: 0
+  outfitSwatches: []
+  originalBones: []
+  originalRootBone: {fileID: 0}
+  editorAttachPoint: {fileID: 0}
+  customShader: 0
+  material: {fileID: 0}
+  controlMaterial: {fileID: 0}
+  controlIndex: 0
+  MC2Map: {fileID: 0}
+  attached: 0
+--- !u!1001 &3286848100443727402
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3818186915950220429}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_DirtyAABB
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Center.x
+      value: -0.000000014901161
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Center.y
+      value: 0.07998262
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Center.z
+      value: -0.013963196
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Extent.x
+      value: 0.13722607
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Extent.y
+      value: 0.13739115
+      objectReference: {fileID: 0}
+    - target: {fileID: -8421320454589951779, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_AABB.m_Extent.z
+      value: 0.12260307
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+      propertyPath: m_Name
+      value: HairBack_NobleBraid
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+--- !u!4 &2543977555217151635 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1068264560904196281, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+  m_PrefabInstance: {fileID: 3286848100443727402}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &3033037544378909121 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: d2a324f67b2156a4393666d04707c6f4, type: 3}
+  m_PrefabInstance: {fileID: 3286848100443727402}
+  m_PrefabAsset: {fileID: 0}

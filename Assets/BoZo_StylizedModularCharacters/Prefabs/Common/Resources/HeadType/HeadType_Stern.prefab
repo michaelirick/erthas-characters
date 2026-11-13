@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1576395663773664691
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2115362137504158799, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dea1aeb04b3b4dd45aa7e413ce3eea76, type: 2}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2459002224889073846, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: Type
+      value: 
+      objectReference: {fileID: 11400000, guid: 83fd917e577eec0439f900f8758adff6, type: 2}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: material
+      value: 
+      objectReference: {fileID: 2100000, guid: 0658bd2527adb0d4a9755e947f06f656, type: 2}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: OutfitIcon
+      value: 
+      objectReference: {fileID: 21300000, guid: 1f44fd319747d674d88992d68979b642, type: 3}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: OutfitName
+      value: Stern Head
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: inheritColor
+      value: 
+      objectReference: {fileID: 11400000, guid: 480ce04c1d1586c44b495f52ce52adc8, type: 2}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: inheritedRange
+      value: 9
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: tags.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: materialPriority
+      value: 99
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: tags.Array.data[0]
+      value: Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: requiredTags.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: ColorChannels.Array.size
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: additionalBones.Array.size
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2581466366360439782, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: requiredTags.Array.data[0]
+      value: Stylized
+      objectReference: {fileID: 0}
+    - target: {fileID: 2684572452454272266, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dea1aeb04b3b4dd45aa7e413ce3eea76, type: 2}
+    - target: {fileID: 2684572452454272266, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[42]
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 4808315331280513065, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_Name
+      value: HeadType_Stern
+      objectReference: {fileID: 0}
+    - target: {fileID: 6910049002463404265, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: dea1aeb04b3b4dd45aa7e413ce3eea76, type: 2}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 6092223643388632645, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 551aa5f3d39439e46898c6bf56b5ff38, type: 3}

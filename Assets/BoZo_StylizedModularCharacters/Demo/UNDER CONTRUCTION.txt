@@ -1,0 +1,5 @@
+Character creator used to be here but its moved the main "Scenes" Folder
+
+Demo folder being revamped to be a tutorial
+
+Stay tuned!

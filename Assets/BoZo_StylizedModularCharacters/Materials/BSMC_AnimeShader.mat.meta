@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6412b40e5a9bbe34b8ae72cbe2bde300
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Materials/BSMC_AnimeShader.mat
+  uploadId: 1035772

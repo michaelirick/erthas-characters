@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: e938ef444b9452c4aa4c9c44645121cb
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Scripts/ThirdParty/MagicaCloth/BoZo_Preset_ShortHair.json
+  uploadId: 1035772

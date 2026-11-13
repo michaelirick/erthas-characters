@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 22f028ff5090c2449b0696b450926aa0
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Prefabs/Common/Resources/FaceTexture/FaceTexture_Wrinkles.prefab
+  uploadId: 1035772

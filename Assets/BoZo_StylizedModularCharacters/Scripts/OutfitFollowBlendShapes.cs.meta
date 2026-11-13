@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 03cf1730eebe57a4d9f8b25d91dbf076
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 361388
+  packageName: 'BoZo: Stylized Modular Characters - Fantasy Pack'
+  packageVersion: 2.6.5
+  assetPath: Assets/BoZo_StylizedModularCharacters/Scripts/OutfitFollowBlendShapes.cs
+  uploadId: 1035772
